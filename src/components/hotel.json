@@ -1,0 +1,24 @@
+{
+    "hotels": [
+      {
+        "name": "Smart Russell Square",
+        "address": "70-72 Guilford St London WC1N 1DF",
+        "amount": "₦198,234",
+        "how_long": "Per 10 nights & room"
+      },
+      {
+        "name": "Smart Hyde Park Inn Hostel",
+        "address": "48-50 Inverness Terrace",
+        "amount": "₦199,031",
+        "how_long": "Per 10 nights & room"
+      },
+      {
+        "name": "London Waterloo Hostel",
+        "address": "73 Lambeth Walk",
+        "amount": "₦219,969",
+        "how_long": "Per 10 nights & room"
+      }
+      
+    ]
+  }
+  
