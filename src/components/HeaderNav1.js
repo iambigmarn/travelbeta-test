@@ -12,7 +12,7 @@ const HeaderNav = () => {
             <div className="bg-white_A700 flex flex-row md:flex-wrap sm:flex-wrap items-center p-[11px] sm:p-[5px] md:p-[7px] shadow-bs1 w-[100%]">
               <div className="flex flex-row md:flex-wrap sm:flex-wrap items-center justify-between max-w-[1200px] md:ml-[75px] ml-[auto] mr-[auto] sm:mx-[0] sm:pl-[15px] sm:pr-[15px] sm:px-[0] w-[100%]">
                 <Img
-                  src={require("./img_travelbetalogo.png")}
+                  src="images/img_travelbetalogo.png"
                   className="max-w-[100%] w-[35%] md_l:w-[13%]"
                   alt="travelbetalogo"
                 />
